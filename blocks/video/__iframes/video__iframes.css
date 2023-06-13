@@ -1,11 +1,13 @@
-.video__iframes{
+  .video__content{
     display: block;
     margin: auto;
     width: 1100px;
     position: relative;
     top: 50px;
-    border: none;
   }
   .video{
     margin: auto;
+}
+.video__iframe{
+border: none;
 }
