@@ -6,7 +6,7 @@
     background-color: black;
     position: relative;
   }
-  .column__heading{
+  .footer__column_heading{
     line-height: 30px;
     font-size: 18px;
     font-weight: bold;
@@ -15,10 +15,10 @@
     margin-top: 60px;
     
   }
-  .columns__copyright{
+  .footer__columns_copyright{
     flex-basis: 711px;
   }
-  .column__content_social{
+  .footer__column_content_social{
     display: flex;
     flex-direction: column;
     align-items: baseline;
