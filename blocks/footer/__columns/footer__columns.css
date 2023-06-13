@@ -1,0 +1,25 @@
+.footer__columns{
+    display:flex;
+    min-height: 350px;
+    justify-content: space-around;
+    margin: auto;
+    background-color: black;
+    position: relative;
+  }
+  .column__heading{
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 20px;
+    margin-top: 60px;
+    
+  }
+  .columns__copyright{
+    flex-basis: 711px;
+  }
+  .column__content_social{
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+  }

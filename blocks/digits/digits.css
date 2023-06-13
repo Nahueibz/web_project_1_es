@@ -1,0 +1,7 @@
+.digits {
+    margin-bottom: 100px;
+  }
+  .digits__header {
+    display: flex;
+    flex-direction: column;
+  }

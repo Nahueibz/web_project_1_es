@@ -1,0 +1,13 @@
+
+.footer__list-text{
+    list-style: none;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: normal;
+    color: white;
+    text-decoration: none;
+    transition: opacity 1s ease;
+  }
+  .footer__list-text:hover{
+  opacity: 40%;
+  }
