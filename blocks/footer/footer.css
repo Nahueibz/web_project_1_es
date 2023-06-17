@@ -1,0 +1,8 @@
+.footer{
+    display:flex;
+    min-height: 350px;
+    justify-content: space-around;
+    margin: auto;
+    background-color: black;
+    position: relative;
+  }
