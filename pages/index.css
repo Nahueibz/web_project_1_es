@@ -58,6 +58,10 @@
 @import url("../blocks/footer/__list-text/footer__list-text.css");
 @import url("../blocks/footer/__logo/footer__logo.css");
 @import url("../blocks/footer/footer.css");
+@import url("../blocks/footer/__content-social/footer__column-content-social.css");
+@import url("../blocks/footer/__copyright/footer__columns__copyright.css");
+@import url("../blocks/footer/__heading/footer__column__heading.css");
+@import url("../blocks/footer/__columns/footer__column.css");
 
 * {
   box-sizing: border-box;
