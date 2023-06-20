@@ -53,15 +53,16 @@
 @import url("../blocks/resources/__subtitle/resources__subtitle.css");
 @import url("../blocks/resources/__title/resources__title.css");
 
+@import url("../blocks/footer/footer.css");
 @import url("../blocks/footer/__author/footer__author.css");
 @import url("../blocks/footer/__columns/footer__columns.css");
 @import url("../blocks/footer/__list-text/footer__list-text.css");
 @import url("../blocks/footer/__logo/footer__logo.css");
-@import url("../blocks/footer/footer.css");
-@import url("../blocks/footer/__content-social/footer__column-content-social.css");
 @import url("../blocks/footer/__copyright/footer__columns__copyright.css");
 @import url("../blocks/footer/__heading/footer__column__heading.css");
 @import url("../blocks/footer/__columns/footer__column.css");
+@import url("../blocks/footer/__content-social/footer__link.css");
+@import url("../blocks/footer/__content-social/footer__social-icons.css");
 
 * {
   box-sizing: border-box;
