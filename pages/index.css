@@ -63,6 +63,7 @@
 @import url("../blocks/footer/__columns/footer__column.css");
 @import url("../blocks/footer/__content-social/footer__link.css");
 @import url("../blocks/footer/__content-social/footer__social-icons.css");
+@import url("../blocks/footer/__text-link/footer__text-link.css");
 
 * {
   box-sizing: border-box;
